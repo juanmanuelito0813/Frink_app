@@ -9,5 +9,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-	<access origin="http://50.21.186.193:8086/Login/" />
+	<access origin="https://www.bitrain.mx/" />
+	<allow-navigation href="https://www.bitrain.mx/*" />
 </widget>
